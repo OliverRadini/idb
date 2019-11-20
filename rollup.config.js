@@ -72,5 +72,5 @@ const iffeIttrMin = {
 };
 
 export default [
-  testBuild, esm, iffeMin, iffeIttrMin,
+  esm, iffeMin, iffeIttrMin,
 ];
